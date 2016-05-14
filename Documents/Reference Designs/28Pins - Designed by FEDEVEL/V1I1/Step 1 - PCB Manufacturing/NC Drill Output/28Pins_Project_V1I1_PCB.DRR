@@ -1,0 +1,21 @@
+---------------------------------------------------------------------------
+NCDrill File Report For: 28Pins_Project_V1I1_PCB.PcbDoc   7. 4. 2015  16:20:29
+---------------------------------------------------------------------------
+
+Layer Pair : L1 to L2
+ASCII RoundHoles File : 28Pins_Project_V1I1_PCB-RoundHoles.TXT
+ASCII SlotHoles File : 28Pins_Project_V1I1_PCB-SlotHoles.TXT
+
+Tool         Hole Size           Hole Type     Hole Count Plated       Tool Travel
+---------------------------------------------------------------------------
+T1        0.3mm (11.811mil)        Round          106              446.38 mm (17.57 Inch)
+T2        0.5mm (19.685mil)        Slot           2                7204.18 mm (283.63 Inch)
+T3        1mm (39.37mil)           Round          8                74.19 mm (2.92 Inch)
+T4        1.1mm (43.307mil)        Round          86               329.11 mm (12.96 Inch)
+T5        1.5mm (59.055mil)        Round          2                10.92 mm (0.43 Inch)
+T6        3.2mm (125.984mil)       Round          3                113.97 mm (4.49 Inch)
+T7        3.2mm (125.984mil)       Round          1         NPTH   0.00 mm (0.00 Inch)
+---------------------------------------------------------------------------
+Totals                                            208              8178.75 mm (322.00 Inch)
+
+Total Processing Time (hh:mm:ss) : 00:00:00

@@ -1,0 +1,95 @@
+Designator Footprint               Mid X         Mid Y         Ref X         Ref Y         Pad X         Pad Y TB      Rotation Comment        
+
+R5         R0805                   9.4mm          35mm         9.4mm          35mm       10.35mm          35mm  T        180.00 22R            
+U2         TQFP32                 15.4mm          30mm        15.4mm          30mm        19.6mm        27.2mm  T        180.00 ATMEGA16U2-AU  
+C3         C0805                  22.1mm        22.9mm        22.1mm        22.9mm        22.1mm       21.95mm  T         90.00 10uF / 16V     
+C4         C0805                  19.9mm        22.9mm        19.9mm        22.9mm        19.9mm       23.85mm  T        270.00 100n           
+C5         C0805                  22.1mm       31.45mm        22.1mm       31.45mm        22.1mm        30.5mm  T         90.00 100n           
+C6         C0805                  17.6mm        22.9mm        17.6mm        22.9mm        17.6mm       23.85mm  T        270.00 100n           
+C1         C_ALU_C_SIZE            7.1mm        12.2mm         7.1mm        12.2mm         7.1mm       10.15mm  T         90.00 100u / 10V     
+C2         C_ALU_C_SIZE            7.1mm         4.1mm         7.1mm         4.1mm         7.1mm        2.05mm  T         90.00 100u / 10V     
+C12        C0805                  11.4mm        12.4mm        11.4mm        12.4mm        11.4mm       11.45mm  T         90.00 10uF / 16V     
+C7         C0805                  13.5mm        23.6mm        13.5mm        23.6mm       14.45mm        23.6mm  T        180.00 1u             
+C8         C0805                   2.3mm      44.214mm         2.3mm      44.214mm         2.3mm      43.264mm  T         90.00 100n           
+C9         C0805                  25.3mm        34.9mm        25.3mm        34.9mm       26.25mm        34.9mm  T        180.00 18p            
+C10        C0805                  25.3mm        24.7mm        25.3mm        24.7mm       26.25mm        24.7mm  T        180.00 18p            
+C11        C0805                  63.7mm        46.4mm        63.7mm        46.4mm        63.7mm       45.45mm  T         90.00 100n           
+C13        C0805                  20.8mm        11.5mm        20.8mm        11.5mm        20.8mm       10.55mm  T         90.00 10uF / 16V     
+C15        C0805                  30.7mm         5.7mm        30.7mm         5.7mm        30.7mm        4.75mm  T         90.00 100n           
+C16        C0805                  36.2mm         5.7mm        36.2mm         5.7mm        36.2mm        4.75mm  T         90.00 100n           
+C17        C0805                     3mm        52.2mm           3mm        52.2mm        2.05mm        52.2mm  T        360.00 100n           
+C21        C0805                  25.3mm       48.25mm        25.3mm       48.25mm       24.35mm       48.25mm  T        360.00 10uF / 16V     
+C19        C0805                  47.4mm         7.8mm        47.4mm         7.8mm       48.35mm         7.8mm  T        180.00 10uF / 16V     
+C20        C0805                  45.4mm          23mm        45.4mm          23mm       46.35mm          23mm  T        180.00 100n           
+C23        C0805                  41.7mm         9.9mm        41.7mm         9.9mm       42.65mm         9.9mm  T        180.00 100n           
+C24        C0805                  45.4mm         9.9mm        45.4mm         9.9mm       44.45mm         9.9mm  T        360.00 100n           
+C25        C0805                  41.6mm        25.6mm        41.6mm        25.6mm       40.65mm        25.6mm  T        360.00 18p            
+C26        C0805                  21.1mm        43.7mm        21.1mm        43.7mm        21.1mm       44.65mm  T        270.00 100n           
+C27        C0805                45.375mm        25.6mm      45.375mm        25.6mm      46.325mm        25.6mm  T        180.00 18p            
+C28        C0805                  65.4mm        12.5mm        65.4mm        12.5mm       64.45mm        12.5mm  T        360.00 100n           
+C29        C0805                  22.1mm        19.1mm        22.1mm        19.1mm        22.1mm       18.15mm  T         90.00 100n           
+C30        C0805                   6.1mm        29.4mm         6.1mm        29.4mm        5.15mm        29.4mm  T        360.00 100n           
+C31        C0805                    10mm        23.6mm          10mm        23.6mm        9.05mm        23.6mm  T        360.00 100n           
+C32        C0805                  64.5mm        19.8mm        64.5mm        19.8mm        64.5mm       20.75mm  T        270.00 100n           
+C33        C0805                  23.1mm        11.5mm        23.1mm        11.5mm        23.1mm       10.55mm  T         90.00 100n           
+D3         LED_0603                 24mm        40.2mm          24mm        40.2mm        23.2mm        40.2mm  T        360.00 Orange         
+D4         LED_0603                 24mm        38.6mm          24mm        38.6mm        23.2mm        38.6mm  T        360.00 Orange         
+D2         LED_0603                 24mm        42.7mm          24mm        42.7mm        23.2mm        42.7mm  T        360.00 Orange         
+D1         LED_0603               58.7mm        36.9mm        58.7mm        36.9mm        57.9mm        36.9mm  T        360.00 Green          
+D6         SOD323                 61.6mm        24.3mm        61.6mm        24.3mm     60.3808mm        24.3mm  T        360.00 BAT54HT1G      
+D5         SOD323                  1.5mm        28.5mm         1.5mm        28.5mm         1.5mm     29.7192mm  T        270.00 BAT54HT1G      
+J4         Hdr_Female_1x10_2.54mm      30.226mm        50.8mm      41.656mm        50.8mm      41.656mm        50.8mm  T        270.00 HDR FMALE 1x10 2.54mm
+J2         Hdr_Female_1x6_2.54mm       57.15mm        2.54mm        50.8mm        2.54mm        50.8mm        2.54mm  T         90.00 HDR FMALE 1x6 2.54mm
+J3         Hdr_Female_1x8_2.54mm       54.61mm        50.8mm        63.5mm        50.8mm        63.5mm        50.8mm  T        270.00 HDR FMALE 1x8 2.54mm
+J1         Hdr_Female_1x8_2.54mm       36.83mm        2.54mm       27.94mm        2.54mm       27.94mm        2.54mm  T         90.00 HDR FMALE 1x8 2.54mm
+J6         HDR_2X3_2.54MM         5.08mm      39.878mm        2.54mm      38.608mm        2.54mm      38.608mm  T         90.00 HDR 2x3        
+J5         HDR_2X3_2.54MM         5.08mm      48.514mm        2.54mm      47.244mm        2.54mm      47.244mm  T         90.00 HDR 2x3        
+JP3        HDR_1x4_2.54MM         14.6mm       40.79mm        14.6mm        44.6mm        14.6mm        44.6mm  T        360.00 HDR 1x4        
+JP1        Hdr_1x3_2.54mm         66.2mm       44.36mm        66.2mm        46.9mm        66.2mm        46.9mm  T        360.00 HDR 1x3        
+J7         10118193             3.5375mm        20.1mm         2.2mm        20.1mm       4.875mm        21.4mm  T        270.00 10118193-0001LF
+L1         C1210_IND               2.1mm           8mm         2.1mm           8mm         2.1mm         9.6mm  T        270.00 2u2 / 2A       
+R1         R0805                  17.3mm        39.7mm        17.3mm        39.7mm        17.3mm       38.75mm  T         90.00 100k           
+R2         R0805                  28.7mm        43.8mm        28.7mm        43.8mm       27.75mm        43.8mm  T        360.00 560R           
+R3         R0805                  28.7mm        41.8mm        28.7mm        41.8mm       27.75mm        41.8mm  T        360.00 560R           
+R4         R0805                     9mm        27.1mm           9mm        27.1mm           9mm       28.05mm  T        270.00 10k            
+R6         R0805                   9.9mm        21.5mm         9.9mm        21.5mm        8.95mm        21.5mm  T          0.00 22R            
+R7         R0805                   9.9mm        19.4mm         9.9mm        19.4mm        8.95mm        19.4mm  T          0.00 22R            
+R8         R0805                   9.9mm        17.4mm         9.9mm        17.4mm        8.95mm        17.4mm  T        360.00 0R             
+R9         R0805                  22.1mm          28mm        22.1mm          28mm        22.1mm       27.05mm  T         90.00 1M             
+R10        R0805                  61.1mm        46.5mm        61.1mm        46.5mm        61.1mm       45.55mm  T         90.00 1k             
+R11        R0805                  58.2mm        46.5mm        58.2mm        46.5mm        58.2mm       45.55mm  T         90.00 1k             
+R12        R0805                  63.6mm        42.2mm        63.6mm        42.2mm        63.6mm       43.15mm  T        270.00 1k             
+R14        R0805                  61.3mm        22.6mm        61.3mm        22.6mm       60.35mm        22.6mm  T        360.00 10k            
+R15        R0805                  23.9mm        44.5mm        23.9mm        44.5mm       24.85mm        44.5mm  T        180.00 560R           
+R16        R0805                  41.5mm          23mm        41.5mm          23mm       42.45mm          23mm  T        180.00 1M             
+R17        R0805                  58.6mm          35mm        58.6mm          35mm       59.55mm          35mm  T        180.00 560R           
+R18        R0805                  66.6mm        19.7mm        66.6mm        19.7mm        66.6mm       18.75mm  T         90.00 10k            
+R19        R0805                   3.2mm        28.8mm         3.2mm        28.8mm         3.2mm       27.85mm  T         90.00 10k            
+R20        R0805                  66.6mm        23.2mm        66.6mm        23.2mm        66.6mm       24.15mm  T        270.00 10k            
+R21        R0805                  27.4mm         5.8mm        27.4mm         5.8mm        27.4mm        6.75mm  T        270.00 10k            
+R22        R0805                  24.9mm        15.3mm        24.9mm        15.3mm        24.9mm       16.25mm  T        270.00 560R           
+R23        R0805                   2.4mm        25.7mm         2.4mm        25.7mm        1.45mm        25.7mm  T        360.00 22R            
+R24        R0805                  64.5mm        23.2mm        64.5mm        23.2mm        64.5mm       24.15mm  T        270.00 22R            
+SCKT FOR U 28_DIP_7.62mm_SOCKET        -360mm        -372mm      62.065mm      20.193mm        -360mm        -372mm  T        270.00 28-DIP Socket  
+SW1        1825910-6              62.8mm        28.3mm        62.8mm        28.3mm       66.05mm       26.05mm  T        270.00 1825910-6      
+SW2        1825910-6              22.4mm         5.1mm        22.4mm         5.1mm       24.65mm        8.35mm  T        360.00 1825910-6      
+U1         28_DIP_7.62mm        45.555mm      16.383mm      62.065mm      20.193mm      62.065mm      20.193mm  T        270.00 ATMEGA328P-PU  
+U4         DBV_SOT_23_5             18mm        43.3mm          18mm        43.3mm       16.65mm       44.25mm  T        360.00 SN74AHC1G09DBVR
+U5         DBV_SOT_23_5              6mm        26.3mm           6mm        26.3mm        5.05mm       24.95mm  T         90.00 SN74AHC1G09DBVR
+U6         DBV_SOT_23_5           65.2mm        15.9mm        65.2mm        15.9mm       66.15mm       17.25mm  T        270.00 SN74AHC1G09DBVR
+U7         DBV_SOT_23_5           21.7mm        15.3mm        21.7mm        15.3mm       20.35mm       16.25mm  T        360.00 SN74AHC1G09DBVR
+Z1         R0603                   7.1mm        21.8mm         7.1mm        21.8mm         7.1mm       22.55mm  T        270.00 CG0603MLC-05E  
+Z2         R0603                   7.1mm          19mm         7.1mm          19mm         7.1mm       18.25mm  T         90.00 CG0603MLC-05E  
+FB1        C0805                  19.9mm        19.1mm        19.9mm        19.1mm        19.9mm       18.15mm  T         90.00 MPZ2012S601AT000
+FB2        C0805                  47.4mm         5.7mm        47.4mm         5.7mm       46.45mm         5.7mm  T        360.00 MPZ2012S601AT000
+U3         DCQ_(R-PDSO-G6)          16mm        14.8mm          16mm        14.8mm       13.46mm        11.7mm  T        360.00 TL1963A-33DCQR 
+Y2         ABM7_v1_1_BIG          25.3mm        29.8mm        25.3mm        29.8mm        25.3mm       27.35mm  T         90.00 ABM7-16.000MHZ-D2Y-T
+C22        C0805                  41.7mm         7.8mm        41.7mm         7.8mm       42.65mm         7.8mm  T        180.00 10uF / 16V     
+C14        C0805                  39.6mm         5.2mm        39.6mm         5.2mm       38.65mm         5.2mm  T        360.00 100n           
+FB3        C0805                  44.6mm         7.1mm        44.6mm         7.1mm        44.6mm        6.15mm  T         90.00 MPZ2012S601AT000
+R13        R0805                  38.2mm         9.9mm        38.2mm         9.9mm       39.15mm         9.9mm  T        180.00 22R            
+R25        R0805                    28mm         8.5mm          28mm         8.5mm       28.95mm         8.5mm  T        180.00 22R            
+C34        C0805                 58.65mm        32.8mm       58.65mm        32.8mm        57.7mm        32.8mm  T        360.00 10uF / 16V     
+R27        R0805                  33.9mm         7.7mm        33.9mm         7.7mm        33.9mm        6.75mm  T         90.00 0R             
+Y1         ABM7_v1_1_BIG          43.5mm        28.7mm        43.5mm        28.7mm       45.95mm        28.7mm  T        180.00 ABM7-16.000MHZ-D2Y-T
+
